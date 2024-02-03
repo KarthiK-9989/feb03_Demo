@@ -4,5 +4,7 @@ object helloworld {
 
     println("hello world")
 
+    println("mangoo is so sweet")
+
   }
 }
